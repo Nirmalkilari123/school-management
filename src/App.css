@@ -1,0 +1,9 @@
+body {
+  background-image: linear-gradient(to right, #09327f, #06183b);
+  background-size: cover; /* Ensure the gradient covers the entire background */
+  background-position: center; /* Center the gradient */
+  background-repeat: no-repeat; /* Do not repeat the gradient */
+  background-attachment: fixed; /* Make the background fixed */
+  height: 100vh; /* Ensure the body takes up the full viewport height */
+  margin: 0; /* Remove default margin */
+}

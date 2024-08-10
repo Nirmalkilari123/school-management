@@ -1,0 +1,26 @@
+  
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 150px;
+}
+  .head {
+    color: white;
+    font-size: 2rem;
+  }
+
+  p{
+    color: white;
+  }
+
+
+  .button{
+    height: 40px;
+    width: 200px;
+    background: linear-gradient(45deg, #0f5ef7, #0f5ef7) !important;
+    color: white;
+    border-width: 0px;
+    border-radius: 5px;
+  }
